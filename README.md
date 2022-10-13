@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackelinmai&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Jacke-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Jacke-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -17,6 +17,10 @@
   <img align="right" alt="Jacke-pic" height="220" style="border-radius:90px;" src="https://i.pinimg.com/originals/92/77/73/927773abd6228309d58c312ec5fe459c.jpg">
   
 </div>
+
+
+
+
 
 <div> 
   <a href="https://www.youtube.com/channel/UCLEiaxao3MGXiiTLZogwnGAQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
