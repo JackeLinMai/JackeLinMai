@@ -16,7 +16,7 @@
   <img align="center" alt="Jacke-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Jacke-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jacke-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" alt="Jacke-pic" height="100" style="border-radius:90px;" src="https://i.pinimg.com/originals/92/77/73/927773abd6228309d58c312ec5fe459c.jpg">
+  <img align="right" alt="Jacke-pic" height="190" style="border-radius:90px;" src="https://i.pinimg.com/originals/92/77/73/927773abd6228309d58c312ec5fe459c.jpg">
   
 </div>
 
