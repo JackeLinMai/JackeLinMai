@@ -1,5 +1,6 @@
 <h1>Olá, eu sou  Jacke 👋😊</h1>
-<img align="center" src="https://user-images.githubusercontent.com/102440740/195992284-2a237eb0-0311-4c37-b1aa-3b90652cfdc8.gif">
+<div align="center">
+<img align="center" src="https://user-images.githubusercontent.com/102440740/195992284-2a237eb0-0311-4c37-b1aa-3b90652cfdc8.gif"></div>
 
 - 🎮 Estudo tecnologias do front-end   (*⌒∇⌒*)
 - 🌠 Sou estudante de Física e Analíse e Desenvolvimento de Sistemas 
