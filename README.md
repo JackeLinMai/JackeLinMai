@@ -16,13 +16,14 @@
   <img align="center" alt="Jacke-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Jacke-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jacke-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" alt="Jacke-pic" height="190" style="border-radius:90px;" src="https://i.pinimg.com/originals/92/77/73/927773abd6228309d58c312ec5fe459c.jpg">
+  <img align="right" alt="Jacke-pic" height="190" style="border-radius:90px;" src="https://user-images.githubusercontent.com/102440740/195991688-dd341877-8638-4282-a336-83941d217b43.gif">
   
 </div>
 
 
 
 <div> 
+<h3>Onde me encontar: </h3>
   <a href="https://www.youtube.com/channel/UCLEiaxao3MGXiiTLZogwnGAQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/atelietanuki" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/jackelinmai" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
