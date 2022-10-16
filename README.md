@@ -33,6 +33,8 @@
   </div>
 
 ![snake gif](https://github.com/JackeLinMai/JackeLinMai/blob/output/github-contribution-grid-snake.svg)
-<div><p>Gosto de música, livros, artesanato, astronomia e plantas. No momento só quero estudar e aprender mais sobre esse maravilhoso universo da ciência da computação.</p>
-<img src="<img src"https://user-images.githubusercontent.com/102440740/196013725-f3dfeff0-a28f-455a-97b4-e782c219b020.gif" width=20px>
+
+<div alighn="center"><p>Gosto de música, livros, artesanato, astronomia e plantas. No momento só quero estudar e aprender mais sobre esse maravilhoso universo da ciência da computação.</p>
+<img align="center" alt="cat" src="https://user-images.githubusercontent.com/102440740/196013908-11e0590a-7a0b-4a22-acf0-ba24b1fee417.gif">
 </div>
+
