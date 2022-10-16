@@ -24,7 +24,7 @@
 
 
 <div> 
-<h3>Onde me encontar: </h3>
+<h3>Onde me encontrar: </h3>
   <a href="https://www.youtube.com/channel/UCLEiaxao3MGXiiTLZogwnGAQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/atelietanuki" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/jackelinmai" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -33,3 +33,6 @@
   </div>
 
 ![snake gif](https://github.com/JackeLinMai/JackeLinMai/blob/output/github-contribution-grid-snake.svg)
+<div><p>Gosto de música, livros, artesanato, astronomia e plantas. No momento só quero estudar e aprender mais sobre esse maravilhoso universo da ciência da computação.</p>
+<img src="<img src"https://user-images.githubusercontent.com/102440740/196013725-f3dfeff0-a28f-455a-97b4-e782c219b020.gif" width=20px>
+</div>
