@@ -4,7 +4,7 @@
 
 - 🎮 Estudo tecnologias do backend e física moderna   (*⌒∇⌒*)
 - 🌠 Sou estudante de Física e Analíse e Desenvolvimento de Sistemas 
-- 📚 No momento estudando Javascript, Angular, React e Design de Interface
+- 📚 No momento estudando Java, Javascript, Angular, React e Banco de Dados.
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jackelinmai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
