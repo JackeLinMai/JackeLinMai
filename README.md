@@ -2,7 +2,7 @@
 <div align="center">
 <img align="center" src="https://user-images.githubusercontent.com/102440740/195992284-2a237eb0-0311-4c37-b1aa-3b90652cfdc8.gif"></div>
 
-- 🎮 Estudo tecnologias do front-end   (*⌒∇⌒*)
+- 🎮 Estudo tecnologias do backend e física moderna   (*⌒∇⌒*)
 - 🌠 Sou estudante de Física e Analíse e Desenvolvimento de Sistemas 
 - 📚 No momento estudando Javascript, Angular, React e Design de Interface
 
